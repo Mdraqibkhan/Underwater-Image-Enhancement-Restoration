@@ -3,8 +3,8 @@
 ## Evaluation
 The proposed approach has undergone extensive evaluation across a variety of datasets, including:
 
-### Synthetic Datasets: [UIEB Dataset](https://li-chongyi.github.io/proj_benchmark.html) and [EUVP dataset](https://drive.google.com/drive/folders/1ZEql33CajGfHHzPe1vFxUFCMcP0YbZb3)
-### Real-World Datasets: [UIEB] ((https://li-chongyi.github.io/proj_benchmark.html) ), [UCCS] (https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark)
+### Synthetic Datasets: [UIEB Dataset] https://li-chongyi.github.io/proj_benchmark.html and [EUVP dataset] https://drive.google.com/drive/folders/1ZEql33CajGfHHzPe1vFxUFCMcP0YbZb3
+### Real-World Datasets: [UIEB] https://li-chongyi.github.io/proj_benchmark.html) , [UCCS] https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark
 
 
 ## Source Code
