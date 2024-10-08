@@ -35,6 +35,7 @@ The proposed approach has undergone extensive evaluation across a variety of dat
 
 ## Source Code
 The complete source code for the Spectroformer method is available [here](https://github.com/Mdraqibkhan/Spectroformer)
+
 This research was presented at the 2024 Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV).
 
 ## Citation
