@@ -1,4 +1,4 @@
-1. UIEPTA: Underwater Image Enhancement with Phase Transfer and Attention
+UIEPTA: Underwater Image Enhancement with Phase Transfer and Attention
 
 Evaluation
 The proposed approach has undergone extensive evaluation across a variety of datasets, including:
