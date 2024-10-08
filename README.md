@@ -22,7 +22,7 @@ This research was presented at the 2023 International Joint Conference on Neural
   organization={IEEE}
 
 
-#################################################################################################************************************########################################################################################
+#######################***********************************##############################################
 
 
 Spectroformer: Multi-domain query cascaded transformer network for underwater image enhancement
