@@ -1,4 +1,4 @@
-UIEPTA: A Lightweight Transformer Network for Underwater Image Enhancement
+1.UIEPTA: A Lightweight Transformer Network for Underwater Image Enhancement
 Evaluation
 The proposed method has been thoroughly evaluated on various datasets, including:
 - Synthetic datasets: EUVP, UIEB
