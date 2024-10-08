@@ -3,8 +3,8 @@
 ## Evaluation
 The proposed approach has undergone extensive evaluation across a variety of datasets, including:
 
-### Synthetic Datasets: [UIEB Dataset] https://li-chongyi.github.io/proj_benchmark.html and [EUVP dataset] https://drive.google.com/drive/folders/1ZEql33CajGfHHzPe1vFxUFCMcP0YbZb3
-### Real-World Datasets: [UIEB] https://li-chongyi.github.io/proj_benchmark.html) , [UCCS] https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark
+### Synthetic Datasets: [UIEB Dataset](https://li-chongyi.github.io/proj_benchmark.html) and [EUVP dataset](https://drive.google.com/drive/folders/1ZEql33CajGfHHzPe1vFxUFCMcP0YbZb3)
+### Real-World Datasets: [UIEB](https://li-chongyi.github.io/proj_benchmark.html) , [UCCS](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark)
 
 
 ## Source Code
@@ -32,7 +32,7 @@ If you found this work helpful, please cite it using the following reference:
 The proposed approach has undergone extensive evaluation across a variety of datasets, including:
 
 ### Synthetic Datasets:[UIEB Dataset](https://li-chongyi.github.io/proj_benchmark.html)
-### Real-World Datasets: [UIEB] ((https://li-chongyi.github.io/proj_benchmark.html) ), [UCCS] (https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark), [SQUID] (https://csms.haifa.ac.il/profiles/tTreibitz/datasets/ambient_forwardlooking/index.html) 
+### Real-World Datasets: [UIEB](https://li-chongyi.github.io/proj_benchmark.html), [UCCS](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark), [SQUID](https://csms.haifa.ac.il/profiles/tTreibitz/datasets/ambient_forwardlooking/index.html) 
 
 ## Source Code
 The complete source code for the Spectroformer method is available [here](https://github.com/Mdraqibkhan/Spectroformer)
