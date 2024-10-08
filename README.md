@@ -1,14 +1,21 @@
-1. UIEPTA: A Lightweight Transformer Network for Underwater Image Enhancement
+UIEPTA: Underwater Image Enhancement with Phase Transfer and Attention
+
 Evaluation
-The proposed method has been thoroughly evaluated on various datasets, including:
-- Synthetic datasets: EUVP, UIEB
-- Real-world datasets: UIEB, UCCS
+The proposed approach has undergone extensive evaluation across a variety of datasets, including:
+
+Synthetic Datasets: EUVP, UIEB
+Real-World Datasets: UIEB, UCCS
 Source Code
-The complete source code for the UIEPTA method is available [here](https://github.com/Mdraqibkhan/UIEPTA).
+The full source code for the UIEPTA method can be accessed here.
 
-Publication
-This work was published in the **2023 International Joint Conference on Neural Networks (IJCNN)**.
-@inproceedings{khan2023underwater, title={Underwater Image Enhancement with Phase Transfer and Attention}, author={Khan, MD Raqib and Kulkarni, 
-Ashutosh and Phutke, Shruti S and Murala, Subrahmanyam},
-booktitle={2023 International Joint Conference on Neural Networks (IJCNN)}, pages={1--8}, year={2023}, organization={IEEE}})
+This research was presented at the 2023 International Joint Conference on Neural Networks (IJCNN).
 
+
+@inproceedings{khan2023underwater, 
+  title={Underwater Image Enhancement with Phase Transfer and Attention}, 
+  author={Khan, MD Raqib and Kulkarni, Ashutosh and Phutke, Shruti S and Murala, Subrahmanyam}, 
+  booktitle={2023 International Joint Conference on Neural Networks (IJCNN)}, 
+  pages={1--8}, 
+  year={2023}, 
+  organization={IEEE}
+}
