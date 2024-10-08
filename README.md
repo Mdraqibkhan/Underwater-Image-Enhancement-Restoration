@@ -1,4 +1,4 @@
-# UIEPTA: Underwater Image Enhancement with Phase Transfer and Attention
+# UIEPTA: Underwater Image Enhancement with Phase Transfer and Attention IJCNN-2023
 
 ## Evaluation
 The proposed approach has undergone extensive evaluation across a variety of datasets, including:
@@ -26,7 +26,7 @@ If you found this work helpful, please cite it using the following reference:
 
 #######################***********************************##############################################
 
-# Spectroformer: Multi-domain query cascaded transformer network for underwater image enhancement
+# Spectroformer: Multi-domain query cascaded transformer network for underwater image enhancement WACV-2024
 
 ## Evaluation
 The proposed approach has undergone extensive evaluation across a variety of datasets, including:
