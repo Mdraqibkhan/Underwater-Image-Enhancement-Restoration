@@ -14,7 +14,7 @@ This research was presented at the 2023 International Joint Conference on Neural
 
 ## Citation
 If you found this work helpful, please cite it using the following reference:
-
+```
 @inproceedings{khan2023underwater, 
   title={Underwater Image Enhancement with Phase Transfer and Attention}, 
   author={Khan, MD Raqib and Kulkarni, Ashutosh and Phutke, Shruti S and Murala, Subrahmanyam}, 
@@ -22,7 +22,7 @@ If you found this work helpful, please cite it using the following reference:
   pages={1--8}, 
   year={2023}, 
   organization={IEEE}
-
+```
 
 #######################***********************************##############################################
 
@@ -41,10 +41,11 @@ This research was presented at the 2024 Proceedings of the IEEE/CVF Winter Confe
 
 ## Citation
 If you found this work helpful, please cite it using the following reference:
-
+```
 @inproceedings{khan2024spectroformer,
   title={Spectroformer: A Multi-Domain Query Cascaded Transformer Network for Underwater Image Enhancement},
   author={Khan, Raqib and Mishra, Priyanka and Mehta, Nancy and Phutke, Shruti S and Vipparthi, Santosh Kumar and Nandi, Sukumar and Murala, Subrahmanyam},
   booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
   pages={1454--1463},
   year={2024}}
+```
