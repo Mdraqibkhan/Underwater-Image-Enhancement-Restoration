@@ -49,3 +49,23 @@ If you found this work helpful, please cite it using the following reference:
   pages={1454--1463},
   year={2024}}
 ```
+ 
+<p align="center">
+  <h1 align="center">ACFTNet: Attentive Color Fusion Transformer Network (ACFTNet) for Underwater Image Enhancement</h1>
+  <p align="center">
+    <a href="https://github.com/MohdUbaidwani">Mohd Ubaid Wani</a>
+    .
+    <a href="https://mdraqibkhan.github.io">Md Raqib Khan</a>
+    ·
+    <a href="https://scholar.google.com/citations?user=W9adP74AAAAJ&hl=en">Ashutosh Kulkarni </a>
+    ·
+    <a href="https://scholar.google.com/citations?user=HgX8wb8AAAAJ&hl=en&oi=sra">Shruti S. Phutke</a>
+    ·
+    <a href="https://visionintelligence.github.io">Santosh Kumar Vipparthi</a>
+    ·
+    <a href="https://www.scss.tcd.ie/~muralas/">Subrahmanyam Murala</a>
+  </p>
+  <h3 align="center">ICPR-2024</h3>
+  <h3 align="center"><a href="">Paper</h3>
+  <div align="center"></div>
+</p>
