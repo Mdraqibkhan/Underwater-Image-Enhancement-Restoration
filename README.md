@@ -8,7 +8,7 @@ The proposed approach has undergone extensive evaluation across a variety of dat
 
 
 ## Source Code
-The complete source code for the UIEPTA method is available [here](https://github.com/Mdraqibkhan/UIEPTA).
+The complete source code for the UIEPTA method is available [here](https://github.com/Mdraqibkhan/https-github.com-MohdUbaidwani-ACFTNet).
 
 This research was presented at the 2023 International Joint Conference on Neural Networks (IJCNN).
 
@@ -56,3 +56,7 @@ If you found this work helpful, please cite it using the following reference:
   <h3 align="center">ICPR-2024</h3>
   <div align="center"></div>
 </p>
+
+
+## Source Code
+The complete source code for the Spectroformer method is available [here](https://github.com/Mdraqibkhan/Spectroformer)
